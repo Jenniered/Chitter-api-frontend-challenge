@@ -21,8 +21,8 @@ Here are some interactions the API supports. Implement as many as you see fit.
 So that I can see what other people are saying,  
 I want to be able to see all the messages (peeps).  
 
-2. As a user,
-So that I can let people know what I am doing, 
+2. As a user,  
+So that I can let people know what I am doing,  
 I want to post a message (peep) to Chitter
 
 3. As a user,
